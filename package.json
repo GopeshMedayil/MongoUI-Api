@@ -1,0 +1,26 @@
+{
+  "name": "mongoui-api",
+  "version": "1.0.0",
+  "description": "Restful Api for mongoui ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GopeshMedayil/MongoUI-Api.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js"
+  ],
+  "author": "Gopesh Gopinath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GopeshMedayil/MongoUI-Api/issues"
+  },
+  "homepage": "https://github.com/GopeshMedayil/MongoUI-Api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
